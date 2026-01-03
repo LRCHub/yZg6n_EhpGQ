@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ゴースト・マキアート",
+  "base_artist": "Endorfin.",
+  "createdAt": "2026-01-03T15:44:38.400353Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゴースト・マキアート",
+      "artist": "Endorfin.",
+      "has_synced": false,
+      "path": "select/pl_01_ゴースト・マキアート_Endorfin..txt"
+    }
+  ]
+}
